@@ -1,0 +1,12 @@
+﻿{
+	"id" : "jason-modAPI",
+	"name" : "Jason Mod",
+	"version: "0.1.0",
+	"author":"jason@thetestproject.com",
+	"url":"https : //thetestproject.com",
+	"description" : "A mod by Jason Lamb.",
+	"main" : "./jason-modAPI"
+	"dependencies" : {
+		"gdt-modAPI":"0.1.x"
+	}
+}
